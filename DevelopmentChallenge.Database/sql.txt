@@ -1,0 +1,12 @@
+INSERT INTO "MDRs" ("Id", "Adquirente") VALUES ('6a51d9bf-ba6c-4541-a279-ce2a2b366a8e', 'A');
+INSERT INTO "MDRs" ("Id", "Adquirente") VALUES ('b31541a2-fa9a-480a-b8b9-b007680ba136', 'B' );
+INSERT INTO "MDRs" ("Id", "Adquirente") VALUES ('4edd331c-4374-41f6-82c5-e247ed76c4ff', 'C' );
+
+INSERT INTO "Taxas" ("Id", "Bandeira", "Credito", "Debito", "MDRId") VALUES ('1857c7ca-25c6-496b-bf5a-96abc72c1d78', 'Master', 3.1, 1.58, '4edd331c-4374-41f6-82c5-e247ed76c4ff');
+INSERT INTO "Taxas" ("Id", "Bandeira", "Credito", "Debito", "MDRId") VALUES ('b40f4aee-1953-4267-9155-7889c2351619', 'Master', 2.65, 1.75, 'b31541a2-fa9a-480a-b8b9-b007680ba136');
+INSERT INTO "Taxas" ("Id", "Bandeira", "Credito", "Debito", "MDRId") VALUES ('58cb4c16-e001-4016-a53e-a6c19f422f3a', 'Master', 2.35, 1.98, '6a51d9bf-ba6c-4541-a279-ce2a2b366a8e');
+INSERT INTO "Taxas" ("Id", "Bandeira", "Credito", "Debito", "MDRId") VALUES ('6a04b026-a16e-4dee-8bca-855f213082bf', 'Visa', 2.25, 2, '6a51d9bf-ba6c-4541-a279-ce2a2b366a8e');
+INSERT INTO "Taxas" ("Id", "Bandeira", "Credito", "Debito", "MDRId") VALUES ('10c1cec0-d9e3-49e0-ac47-fbe783935fbf', 'Visa', 2.5, 2.08, 'b31541a2-fa9a-480a-b8b9-b007680ba136');
+INSERT INTO "Taxas" ("Id", "Bandeira", "Credito", "Debito", "MDRId") VALUES ('5f5942cc-eb04-43cf-a244-2581c24aaf1a', 'Visa', 2.75, 2.16, '4edd331c-4374-41f6-82c5-e247ed76c4ff');
+
+

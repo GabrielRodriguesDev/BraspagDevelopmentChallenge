@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d3YfS0+vW8MR5Ep1xqxmrjhM+5+gfD9IYWXGIrx8SmgSpuQ73oDYgmvgD7akxL3chEBoXXmaPNXJWoQjPOMELA==",
+  "success": true,
+  "projectFilePath": "C:\\Tecnology\\Sistemas\\Gabriel\\Braspag\\DevelopmentChallenge.Domain\\DevelopmentChallenge.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

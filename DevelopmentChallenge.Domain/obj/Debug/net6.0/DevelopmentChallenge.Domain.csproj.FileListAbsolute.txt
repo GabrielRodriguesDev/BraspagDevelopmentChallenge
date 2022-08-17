@@ -1,0 +1,12 @@
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Domain\bin\Debug\net6.0\DevelopmentChallenge.Domain.deps.json
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Domain\bin\Debug\net6.0\DevelopmentChallenge.Domain.dll
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Domain\bin\Debug\net6.0\DevelopmentChallenge.Domain.pdb
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Domain\obj\Debug\net6.0\DevelopmentChallenge.Domain.csproj.AssemblyReference.cache
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Domain\obj\Debug\net6.0\DevelopmentChallenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Domain\obj\Debug\net6.0\DevelopmentChallenge.Domain.AssemblyInfoInputs.cache
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Domain\obj\Debug\net6.0\DevelopmentChallenge.Domain.AssemblyInfo.cs
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Domain\obj\Debug\net6.0\DevelopmentChallenge.Domain.csproj.CoreCompileInputs.cache
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Domain\obj\Debug\net6.0\DevelopmentChallenge.Domain.dll
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Domain\obj\Debug\net6.0\refint\DevelopmentChallenge.Domain.dll
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Domain\obj\Debug\net6.0\DevelopmentChallenge.Domain.pdb
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Domain\obj\Debug\net6.0\ref\DevelopmentChallenge.Domain.dll

@@ -1,0 +1,17 @@
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Database\obj\Debug\net6.0\DevelopmentChallenge.Database.csproj.AssemblyReference.cache
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Database\obj\Debug\net6.0\DevelopmentChallenge.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Database\obj\Debug\net6.0\DevelopmentChallenge.Database.AssemblyInfoInputs.cache
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Database\obj\Debug\net6.0\DevelopmentChallenge.Database.AssemblyInfo.cs
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Database\obj\Debug\net6.0\DevelopmentChallenge.Database.csproj.CoreCompileInputs.cache
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Database\bin\Debug\net6.0\DevelopmentChallenge.Database.deps.json
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Database\bin\Debug\net6.0\DevelopmentChallenge.Database.runtimeconfig.json
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Database\bin\Debug\net6.0\DevelopmentChallenge.Database.dll
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Database\bin\Debug\net6.0\DevelopmentChallenge.Database.pdb
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Database\obj\Debug\net6.0\DevelopmentChallenge.Database.dll
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Database\obj\Debug\net6.0\refint\DevelopmentChallenge.Database.dll
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Database\obj\Debug\net6.0\DevelopmentChallenge.Database.pdb
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Database\obj\Debug\net6.0\DevelopmentChallenge.Database.genruntimeconfig.cache
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Database\obj\Debug\net6.0\ref\DevelopmentChallenge.Database.dll
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Database\bin\Debug\net6.0\DevelopmentChallenge.Domain.dll
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Database\bin\Debug\net6.0\DevelopmentChallenge.Domain.pdb
+C:\Tecnology\Sistemas\Gabriel\Braspag\DevelopmentChallenge.Database\obj\Debug\net6.0\DevelopmentChallenge.Database.csproj.CopyComplete
