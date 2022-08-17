@@ -31,7 +31,7 @@ namespace DevelopmentChallenge.Domain.Servicesss
 
             return new GenericCommandResult(true, "Calculo realizado com sucesso.", new
             {
-                ValorLiquido = result
+                ValorLiquido = Math.Round(result!.Value, 2)
             });
         }
 

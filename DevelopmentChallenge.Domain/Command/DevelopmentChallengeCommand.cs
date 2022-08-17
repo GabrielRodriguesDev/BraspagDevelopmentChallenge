@@ -34,7 +34,7 @@ namespace DevelopmentChallenge.Domain.Command
             }
             else
             {
-                if (!(this.Tipo == "Credito") || !(this.Tipo == "Debito"))
+                if (!(this.Tipo == "Credito" || this.Tipo == "Debito"))
                 {
                     this.AddNotification("Tipo", "Informe um tipo válido (Credito, Debito).");
                 }
